@@ -1,7 +1,8 @@
 # Spotify Web Player Clon [REACT / TAILWIND CSS / NEXT JS ] 🎵
+This spotify web player clone displays a template where daily playlists, recommendations or charts lists can be placed.
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Note: This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Run the project
 
